@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I'm a senior-year undergraduate student studying computer engineering at the University of Illinois Urbana-Champaign. I am broadly interested in theoretical computer science research. Specifically, I'm interested in combinatorial optimization, approximation algorithms, and graph algorithms. 
 
-# Publications and Preprints
+# Publications and Preprints<sup>\*</sup>
 **Monotone Submodular Multiway Partition [\[arXiv\]](https://arxiv.org/abs/2411.05255)**<br>
 Richard Bi, Karthekeyan Chandrasekaran, and Soham Joshi<br>
 *in submission*
@@ -23,9 +23,12 @@ Richard Bi and Peter Bradshaw<br>
 *in submission*
 
 **Rainbow Connection for Complete Multipartite Graphs [\[arXiv\]](https://arxiv.org/abs/2210.12291)**<br>
-Igor Araujo, Kareem Benaissa, Richard Bi, Sean English, Shengan Wu, Pai Zheng<br>
+Igor Araujo, Kareem Benaissa, Richard Bi, Sean English, Shengan Wu, and Pai Zheng<br>
 *to appear in Involve, a Journal of Mathematics*
 
 **Automatic Detection of Facial Landmarks for Denture Models [\[DATA 2022\]](https://doi.org/10.1007/978-3-031-37890-4_6)**<br>
-Ashwinee Mehta, Richard Bi, Sheba Moamen, Maged Abdelaal, and Nic Herndon<br>
+Ashwinee Mehta<sup>&#8224;</sup>, Richard Bi<sup>&#8224;</sup>, Sheba Moamen, Maged Abdelaal, and Nic Herndon<br>
 *DATA 2022*
+
+<sub>(\* author order is alphabetical unless otherwise stated)</sub><br>
+<sub>(&#8224; indicates co-first author when author order is determined by contribution)</sub>
