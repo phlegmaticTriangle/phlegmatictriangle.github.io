@@ -14,11 +14,11 @@ Hi! I'm a senior-year undergraduate student studying computer engineering at the
 Richard Bi, Karthekeyan Chandrasekaran, and Soham Joshi<br>
 *in submission*
 
-**Flexible list coloring of graphs with maximum average degree less than 3 [\[arXiv\]](https://arxiv.org/abs/2310.02979)**<br>
+**Graphs of maximum average degree less than $$\frac{11}{3}$$ are flexibly 4-choosable [\[arXiv\]](https://arxiv.org/abs/2408.08393)**<br>
 Richard Bi and Peter Bradshaw<br>
 *in submission*
 
-**Graphs of maximum average degree less than $$\frac{11}{3}$$ are flexibly 4-choosable [\[arXiv\]](https://arxiv.org/abs/2408.08393)**<br>
+**Flexible list coloring of graphs with maximum average degree less than 3 [\[arXiv\]](https://arxiv.org/abs/2310.02979)**<br>
 Richard Bi and Peter Bradshaw<br>
 *in submission*
 
