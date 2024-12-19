@@ -32,3 +32,11 @@ Ashwinee Mehta<sup>&#8224;</sup>, Richard Bi<sup>&#8224;</sup>, Sheba Moamen, Ma
 
 <sub>(\* author order is alphabetical unless otherwise stated)</sub><br>
 <sub>(&#8224; indicates co-first author when author order is determined by contribution)</sub>
+
+# Selected Coursework
+CS 574 - Randomized Algorithms, Grade: A
+CS 473 - Algorithms, Grade: A
+MATH 424 - Honors Real Analysis, Grade: A+
+MATH 427 - Honors Abstract Algebra, Grade: A+
+MATH 482 - Linear Programming, Grade: A+
+MATH 413 - Intro to Combinatorics, Grade: A+
