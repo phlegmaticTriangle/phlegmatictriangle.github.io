@@ -12,7 +12,7 @@ Hi! I'm a senior-year undergraduate student studying computer engineering at the
 # Publications and Preprints<sup>\*</sup>
 **Monotone Submodular Multiway Partition [\[arXiv\]](https://arxiv.org/abs/2411.05255)**<br>
 Richard Bi, Karthekeyan Chandrasekaran, and Soham Joshi<br>
-*IPCO 2025*
+*to appear at IPCO 2025*
 
 **Graphs of maximum average degree less than $$\frac{11}{3}$$ are flexibly 4-choosable [\[arXiv\]](https://arxiv.org/abs/2408.08393)**<br>
 Richard Bi and Peter Bradshaw<br>
